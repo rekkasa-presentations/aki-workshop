@@ -27,6 +27,10 @@ The Predictive approaches to treatment effect heterogeneity statement.
 ## Framework for observational data
 ![Standardized framework for observational data](figures/framework_publication.png){#fig-review}
 
+
+## Framework for observational data
+![](figures/framework_steps.png)
+
 ## Relative treatment effects
 
 ::: {.panel-tabset}
