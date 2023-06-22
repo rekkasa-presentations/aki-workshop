@@ -19,7 +19,7 @@ The Predictive approaches to treatment effect heterogeneity statement.
 
 
 ## Literature review
-![Regression-based methods for the evaluation of treatment effect heterogeneity in RCT data.](figures/review.png){#fig-review}
+![Literature review.](figures/review.png){#fig-review}
 
 
 
