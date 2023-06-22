@@ -1,0 +1,85 @@
+---
+title: "Treatment effect heterogeneity"
+subtitle: "Risk-based approaches"
+format:
+  revealjs: 
+    default-image-extension: tiff
+---
+
+## PATH Statement
+::: {#fig-path layout-ncol=2}
+
+![PATH Statement](figures/path.png){#fig-path}
+
+![PATH Statement Explanation and Elaboration](figures/path_ene.png){#fig-path-ene}
+
+The Predictive approaches to treatment effect heterogeneity statement.
+:::
+
+
+
+## Literature review
+![Regression-based methods for the evaluation of treatment effect heterogeneity in RCT data.](figures/review.png){#fig-review}
+
+
+
+
+## Framework for observational data
+![Standardized framework for observational data](figures/framework_publication.png){#fig-review}
+
+## Relative treatment effects
+
+::: {.panel-tabset}
+
+### Main outcomes
+
+![](figures/relative-main.png)
+
+### Safety outcomes
+
+![](figures/relative-safety.png){width=57%}
+
+:::
+
+
+## Absolute treatment effects
+
+::: {.panel-tabset}
+
+### Main outcomes
+
+![](figures/absolute-main.png)
+
+### Safety outcomes
+
+![](figures/absolute-safety.png){width=55%}
+:::
+
+
+
+
+## Simulation study
+
+![](figures/simulation-publication.png)
+
+
+
+
+## Simulation study - Results
+
+:::{.panel-tabset}
+
+### Base case
+
+![](figures/simulation-base.png){width=59%}
+
+### Sample size
+![](figures/simulation-sample-size.png){width=59%}
+
+### AUC
+![](figures/simulation-auc.png){width=59%}
+
+### Application
+![](figures/gusto.png){width=59%}
+:::
+
